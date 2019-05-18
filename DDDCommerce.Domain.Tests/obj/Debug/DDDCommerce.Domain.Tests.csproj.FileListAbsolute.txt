@@ -1,0 +1,69 @@
+c:\users\fabio navarro\documents\visual studio 2017\Projects\DDDCommerce\DDDCommerce.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\fabio navarro\documents\visual studio 2017\Projects\DDDCommerce\DDDCommerce.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\fabio navarro\documents\visual studio 2017\Projects\DDDCommerce\DDDCommerce.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\fabio navarro\documents\visual studio 2017\Projects\DDDCommerce\DDDCommerce.Domain.Tests\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+c:\users\fabio navarro\documents\visual studio 2017\Projects\DDDCommerce\DDDCommerce.Domain.Tests\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+c:\users\fabio navarro\documents\visual studio 2017\Projects\DDDCommerce\DDDCommerce.Domain.Tests\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+c:\users\fabio navarro\documents\visual studio 2017\Projects\DDDCommerce\DDDCommerce.Domain.Tests\bin\Debug\DDDCommerce.Domain.Tests.dll
+c:\users\fabio navarro\documents\visual studio 2017\Projects\DDDCommerce\DDDCommerce.Domain.Tests\bin\Debug\DDDCommerce.Domain.Tests.pdb
+c:\users\fabio navarro\documents\visual studio 2017\Projects\DDDCommerce\DDDCommerce.Domain.Tests\bin\Debug\DDDCommerce.Domain.dll
+c:\users\fabio navarro\documents\visual studio 2017\Projects\DDDCommerce\DDDCommerce.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\fabio navarro\documents\visual studio 2017\Projects\DDDCommerce\DDDCommerce.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\fabio navarro\documents\visual studio 2017\Projects\DDDCommerce\DDDCommerce.Domain.Tests\bin\Debug\DDDCommerce.Domain.pdb
+c:\users\fabio navarro\documents\visual studio 2017\Projects\DDDCommerce\DDDCommerce.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\fabio navarro\documents\visual studio 2017\Projects\DDDCommerce\DDDCommerce.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\fabio navarro\documents\visual studio 2017\Projects\DDDCommerce\DDDCommerce.Domain.Tests\obj\Debug\DDDCommerce.Domain.Tests.csprojResolveAssemblyReference.cache
+c:\users\fabio navarro\documents\visual studio 2017\Projects\DDDCommerce\DDDCommerce.Domain.Tests\obj\Debug\DDDCommerce.Domain.Tests.csproj.CoreCompileInputs.cache
+c:\users\fabio navarro\documents\visual studio 2017\Projects\DDDCommerce\DDDCommerce.Domain.Tests\obj\Debug\DDDCommerce.Domain.Tests.dll
+c:\users\fabio navarro\documents\visual studio 2017\Projects\DDDCommerce\DDDCommerce.Domain.Tests\obj\Debug\DDDCommerce.Domain.Tests.pdb
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Domain.Tests\bin\Debug\DDDCommerce.Domain.Tests.dll.config
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Domain.Tests\bin\Debug\DDDCommerce.Shared.dll
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Domain.Tests\bin\Debug\DDDCommerce.Domain.dll.config
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Domain.Tests\bin\Debug\DDDCommerce.Shared.pdb
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Domain.Tests\bin\Debug\DDDCommerce.Shared.dll.config
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\DDDCommerce.Domain.Tests.dll.config
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\DDDCommerce.Domain.Tests.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\DDDCommerce.Domain.Tests.pdb
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\DDDCommerce.Domain.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\DDDCommerce.Shared.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\DDDCommerce.Domain.pdb
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\DDDCommerce.Domain.dll.config
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\DDDCommerce.Shared.pdb
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\DDDCommerce.Shared.dll.config
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain.Tests\obj\Debug\DDDCommerce.Domain.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain.Tests\obj\Debug\DDDCommerce.Domain.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain.Tests\obj\Debug\DDDCommerce.Domain.Tests.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain.Tests\obj\Debug\DDDCommerce.Domain.Tests.pdb
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\DDDCommerce.Domain.Tests.dll.config
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\DDDCommerce.Domain.Tests.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\DDDCommerce.Domain.Tests.pdb
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\DDDCommerce.Domain.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\DDDCommerce.Shared.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\DDDCommerce.Domain.pdb
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\DDDCommerce.Domain.dll.config
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\DDDCommerce.Shared.pdb
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\DDDCommerce.Shared.dll.config
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain.Tests\obj\Debug\DDDCommerce.Domain.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain.Tests\obj\Debug\DDDCommerce.Domain.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain.Tests\obj\Debug\DDDCommerce.Domain.Tests.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain.Tests\obj\Debug\DDDCommerce.Domain.Tests.pdb

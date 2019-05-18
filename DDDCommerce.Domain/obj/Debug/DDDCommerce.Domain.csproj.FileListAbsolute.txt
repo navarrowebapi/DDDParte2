@@ -1,0 +1,87 @@
+c:\users\fabio navarro\documents\visual studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\bin\Debug\DDDCommerce.Domain.dll
+c:\users\fabio navarro\documents\visual studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\bin\Debug\DDDCommerce.Domain.pdb
+c:\users\fabio navarro\documents\visual studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\obj\Debug\DDDCommerce.Domain.csprojResolveAssemblyReference.cache
+c:\users\fabio navarro\documents\visual studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\obj\Debug\DDDCommerce.Domain.csproj.CoreCompileInputs.cache
+c:\users\fabio navarro\documents\visual studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\obj\Debug\DDDCommerce.Domain.dll
+c:\users\fabio navarro\documents\visual studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\obj\Debug\DDDCommerce.Domain.pdb
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\bin\Debug\DDDCommerce.Domain.dll.config
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\bin\Debug\DDDCommerce.Shared.dll
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\bin\Debug\Flunt.dll
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\bin\Debug\System.AppContext.dll
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\bin\Debug\System.Console.dll
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\bin\Debug\System.IO.Compression.dll
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\bin\Debug\System.Net.Http.dll
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\bin\Debug\System.Net.Sockets.dll
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\bin\Debug\DDDCommerce.Shared.pdb
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\bin\Debug\DDDCommerce.Shared.dll.config
+C:\Users\Fabio Navarro\Documents\Visual Studio 2017\Projects\DDDCommerce\DDDCommerce.Domain\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\DDDCommerce.Domain.dll.config
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\DDDCommerce.Domain.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\DDDCommerce.Domain.pdb
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\DDDCommerce.Shared.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\Flunt.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.AppContext.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.Console.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.IO.Compression.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.Net.Http.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.Net.Sockets.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\DDDCommerce.Shared.pdb
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\DDDCommerce.Shared.dll.config
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\obj\Debug\DDDCommerce.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\obj\Debug\DDDCommerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\obj\Debug\DDDCommerce.Domain.dll
+C:\Users\Lab\Downloads\DDDParte1-repositories\DDDParte1-repositories\DDDCommerce.Domain\obj\Debug\DDDCommerce.Domain.pdb
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\DDDCommerce.Domain.dll.config
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\DDDCommerce.Domain.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\DDDCommerce.Domain.pdb
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\DDDCommerce.Shared.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\Flunt.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.AppContext.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.Console.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.IO.Compression.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.Net.Http.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.Net.Sockets.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\DDDCommerce.Shared.pdb
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\DDDCommerce.Shared.dll.config
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\obj\Debug\DDDCommerce.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\obj\Debug\DDDCommerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\obj\Debug\DDDCommerce.Domain.dll
+C:\Users\Lab\Documents\DDDParte1-repositories\DDDCommerce.Domain\obj\Debug\DDDCommerce.Domain.pdb
